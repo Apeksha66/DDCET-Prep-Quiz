@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "DDCET Prep Quiz Webapp/DDCET Prep Quiz Webapp.sqlproj"
+    ],
+    "sqltools.connections": []
+}
